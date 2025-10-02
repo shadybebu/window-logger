@@ -1,15 +1,3 @@
-Window Logger
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/150x150/1e293b/ffffff%3Ftext%3DWL%26font%3Draleway" alt="Window Logger Logo">
-</div>
-<p align="center">
-<strong>A fast, lightweight Python script for filtering critical security events from Windows Event Logs.</strong>
-</p>
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.7%2B-blue.svg" alt="Python 3.7+">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/platform-windows-blue.svg" alt="Platform: Windows">
-</p>
 
 📜 About The Project
 Window Logger is a command-line tool designed to help security analysts, system administrators, and students quickly identify suspicious activities from Windows Security Event Logs. Instead of manually sifting through thousands of log entries, this script automatically parses an exported XML log file, filters for predefined critical events, and displays them as clean, human-readable alerts.
