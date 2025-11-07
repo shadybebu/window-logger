@@ -35,7 +35,7 @@ Follow these simple steps to get the tool up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/shadybebu/window-logger.git](https://github.com/shadybebu/window-logger.git)
+    git clone https://github.com/shadybebu/window-logger.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
